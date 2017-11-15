@@ -1,0 +1,17 @@
+{
+    "name": "MQ2",
+    "version": "1.0.0",
+    "keywords": "MQ2,smoke,smog",
+    "description": "MQ2烟雾浓度检测传感器库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/MQ2.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
